@@ -8,4 +8,4 @@ https://developer.accuweather.com/accuweather-forecast-api/apis/get/forecasts/v1
 
 Uygulamadaki NetworkUtils sinifinda 21.satirda en sondaki location keyler degistirilerek baska sehirlerin hava durumlarina ulasilir.
 
-api key'de günde 50 sorgu limiti var.
+api key'de gÃ¼nde 50 sorgu limiti var.
